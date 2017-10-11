@@ -1,0 +1,4 @@
+﻿  Lab173.cpp
+c:\users\seashell\desktop\универ\practice\c++_ess_ki-3\chapter_1\lab_1_7_3\lab_1_7_3\lab173.cpp(12): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Lab_1_7_3.vcxproj -> C:\Users\Seashell\Desktop\Универ\Practice\C++_Ess_KI-3\Chapter_1\Lab_1_7_3\Debug\Lab_1_7_3.exe
+  Lab_1_7_3.vcxproj -> C:\Users\Seashell\Desktop\Универ\Practice\C++_Ess_KI-3\Chapter_1\Lab_1_7_3\Debug\Lab_1_7_3.pdb (Partial PDB)
