@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  Lab174.cpp
+c:\users\seashell\desktop\универ\practice\c++_ess_ki-3\chapter_1\lab_1_7_4\lab_1_7_4\lab174.cpp(18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\seashell\desktop\универ\practice\c++_ess_ki-3\chapter_1\lab_1_7_4\lab_1_7_4\lab174.cpp(19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Lab_1_7_4.vcxproj -> C:\Users\Seashell\Desktop\Универ\Practice\C++_Ess_KI-3\Chapter_1\Lab_1_7_4\Debug\Lab_1_7_4.exe
+  Lab_1_7_4.vcxproj -> C:\Users\Seashell\Desktop\Универ\Practice\C++_Ess_KI-3\Chapter_1\Lab_1_7_4\Debug\Lab_1_7_4.pdb (Partial PDB)
